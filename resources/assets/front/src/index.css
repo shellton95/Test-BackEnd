@@ -1,0 +1,89 @@
+.card-whidt{
+  width: 18rem;
+  margin-top: 30px;
+  margin-left: 15px;
+  margin-right: 0px;
+  background-color: darkkhaki;
+}
+
+.pesquisa-AluTurma{
+  margin-top: 20px;
+  
+}
+
+.table{
+  margin-top: 20px;
+}
+.col-sm-3{
+  display: flex;
+  
+}
+.tags-pesquisa{
+  margin-left: 15px;
+}
+
+#btnPesAluTurma{
+margin-top: -5px;
+}
+
+p{
+  line-height: 10px;
+}
+.btn-card{
+  margin-left: 18px;
+}
+
+
+
+#card-adicionar{
+  background-color:gray ;
+  justify-content: center;
+  cursor: pointer;
+}
+.card{
+  height: 250px;
+  width: 500px;
+  background-color: darkkhaki;
+  
+}
+
+.card-img-top{
+  height: 75%;
+  width: 90%;
+  object-fit: cover;
+  background-color: darkslategrey;
+}
+
+.body-escola{
+  margin-left: 120px;
+  margin-top: 10px;
+}
+
+.row-cards{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li{
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.table-lista{
+  height: 500px;
+  overflow: scroll;
+  
+}
+
+.totalAlunos{
+ color: blue;
+ font-size: 20px;
+ font-weight: 600;
+ float: right;
+}
+
+.img-adicionar{
+  height: 240px;
+  width: 250px;
+  margin-left: 20px;
+}
